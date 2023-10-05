@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soda Librarby CLI Commands
+title: Soda Library CLI Commands
 description: Review the Soda Library command-line interface (CLI) commands.
 parent: Soda Library
 redirect_from:
